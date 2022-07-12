@@ -25,4 +25,3 @@ def computer_guess(x):
         elif feedback=='l':
             low=guess+1
     print(f"yay! computer guesed the your number correctly,{guess}, correctly!")
-computer_guess(79)
